@@ -1,0 +1,14 @@
+Plugin Name: cdn-off-linker-redux
+Plugin URI: http://amuxbit.com/projects/cdnofflinkerredux
+Description: Based on the original ossdl cdn off linker plugin by W-Mark
+             Kubacki.  Tradditionally replaced the blog URL with another for
+             all files under <code>wp-content</code> and
+             <code>wp-includes</code>. Static content can then be handled by
+             a CDN.
+
+             Note that this is an alpha release, and some enhancements have
+             been stripped.
+
+Version: 1.0.0a
+Author: Jason Giedymin
+Author URI: http://jasongiedymin.amuxbit.com
